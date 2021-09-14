@@ -1,4 +1,4 @@
 <?php
-echo "pull operation";
+echo "github repository";
 
 ?>
