@@ -1,4 +1,4 @@
 <?php
-echo "github repository";
+echo "repository";
 
 ?>
