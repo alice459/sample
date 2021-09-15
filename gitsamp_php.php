@@ -1,5 +1,5 @@
 <?php
-echo "github";
+echo "conflict";
 echo "3way merge";
 
 ?>
