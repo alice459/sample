@@ -1,4 +1,4 @@
 <?php
-echo "3 merge";
+echo "merge";
 
 ?>
