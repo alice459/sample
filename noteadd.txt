@@ -1,1 +1,42 @@
 thanushree
+<<<<<<< .mine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=======
+
+echo "Hello world";
+
+$a = array(
+			1 => array("id" => 1, "name" => "abc", "email" => "abc@gmail.com", "dept" => "php"),
+			array("id" => 2, "name" => "def", "email" => "ddd@gmail.com", "dept" => "java"),
+			array("id" => 3, "name" => "ghi", "email" => "ggg@gmail.com", "dept" => "html"),
+			array("id" => 4, "name" => "jkl", "email" => "jjj@gmail.com", "dept" => "sql"),
+			);
+
+foreach($a as $value) {
+	foreach($value as $key => $val) {
+		echo "<pre>";
+		print_r($key." => ".$val);
+	}
+
+
+?>
+}
+>>>>>>> .theirs
