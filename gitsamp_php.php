@@ -1,4 +1,4 @@
 <?php
-repository
+repo
 
 ?>
