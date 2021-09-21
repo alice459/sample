@@ -1,4 +1,6 @@
 <?php
-git hub
+git init
+git push
+git add
 
 ?>
