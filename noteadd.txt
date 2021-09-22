@@ -1,16 +1,24 @@
-<?php
-echo "Hello world";
-
-$a = array(
-			1 => array("id" => 1, "name" => "abc", "email" => "abc@gmail.com", "dept" => "php"),
-			array("id" => 2, "name" => "def", "email" => "ddd@gmail.com", "dept" => "java"),
-			array("id" => 3, "name" => "ghi", "email" => "ggg@gmail.com", "dept" => "html"),
-			array("id" => 4, "name" => "jkl", "email" => "jjj@gmail.com", "dept" => "sql"),
-			);
-
-foreach($a as $value) {
-	foreach($value as $key => $val) {
-		echo "<pre>";
-		print_r($key." => ".$val);
+class classname {
+	private $var1;
+	public $var2;
+	
+	public function __construct() {
+		
 	}
-?>
+	
+	public function methodName() {
+		
+	}
+	public static function staticMethod() {
+		self::staticMethod();
+	}
+	
+	public function __destruct() {
+		
+	}
+	
+}
+
+$obj = new classname;
+$obj->methodName();
+
