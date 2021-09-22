@@ -13,7 +13,4 @@ foreach($a as $value) {
 		echo "<pre>";
 		print_r($key." => ".$val);
 	}
-
-
 ?>
-}
