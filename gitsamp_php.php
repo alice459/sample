@@ -1,7 +1,5 @@
 <?php
-git init
-git branch
-create
-delete
-
+alice
+thanu
+vivin
 ?>
