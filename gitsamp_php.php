@@ -1,6 +1,9 @@
 <?php
 git init
-git push
-d
-
+git branch
+create
+delete
+list 
+rename
+cherrypick
 ?>
