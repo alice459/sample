@@ -1,6 +1,5 @@
 class classname {
-	private $var1;
-	public $var2;
+
 	
 	public function __construct() {
 		
