@@ -1,6 +1,4 @@
 <?php
-git init
-git push
-git add
+git repository
 
 ?>
