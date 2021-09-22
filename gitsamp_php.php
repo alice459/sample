@@ -1,7 +1,7 @@
 <?php
-git push
+git init
 git pull
 git clone
-git add 
+delete
 git merge
 ?>
